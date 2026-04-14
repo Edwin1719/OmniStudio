@@ -1,0 +1,60 @@
+# ============================================
+# OmniBook - .gitignore
+# ============================================
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos generados por la app (audios de salida)
+output/
+
+# Audios de referencia (privados, pueden contener datos personales)
+reference/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Config personal / sensible
+config/local_settings.json
+config/.env
+
+# HuggingFace cache (si se descarga localmente)
+.hf/
+cache/
+
+# Test / dev files
+test_*.py
+populate_*.py
+
+# Backups
+*.bak
+*.old

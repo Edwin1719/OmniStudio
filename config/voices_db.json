@@ -1,0 +1,325 @@
+{
+  "voices": [
+    {
+      "name": "📖 Narrador Profesional",
+      "type": "design",
+      "instruct": "male, middle-aged, moderate pitch",
+      "atributos": {
+        "genero": "male",
+        "edad": "middle-aged",
+        "tono": "moderate pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz masculina adulta para narracion profesional de audiolibros",
+      "created_at": "2026-04-13T11:08:02.307263"
+    },
+    {
+      "name": "📚 Narradora Suave",
+      "type": "design",
+      "instruct": "female, young adult, high pitch",
+      "atributos": {
+        "genero": "female",
+        "edad": "young adult",
+        "tono": "high pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz femenina joven, calida y acogedora",
+      "created_at": "2026-04-13T11:08:02.307535"
+    },
+    {
+      "name": "🎙️ Locutor Epico",
+      "type": "design",
+      "instruct": "male, elderly, very low pitch",
+      "atributos": {
+        "genero": "male",
+        "edad": "elderly",
+        "tono": "very low pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz grave de anciano para historias epicas y fantasia",
+      "created_at": "2026-04-13T11:08:02.307537"
+    },
+    {
+      "name": "🧒 Nina Contadora",
+      "type": "design",
+      "instruct": "female, child, high pitch",
+      "atributos": {
+        "genero": "female",
+        "edad": "child",
+        "tono": "high pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz de nina para cuentos infantiles",
+      "created_at": "2026-04-13T11:08:02.307539"
+    },
+    {
+      "name": "👵 Abuela Cuentacuentos",
+      "type": "design",
+      "instruct": "female, elderly, low pitch",
+      "atributos": {
+        "genero": "female",
+        "edad": "elderly",
+        "tono": "low pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz de abuela calida para cuentos antes de dormir",
+      "created_at": "2026-04-13T11:08:02.307540"
+    },
+    {
+      "name": "🎭 Duende Magico",
+      "type": "design",
+      "instruct": "male, teenager, very high pitch",
+      "atributos": {
+        "genero": "male",
+        "edad": "teenager",
+        "tono": "very high pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz aguda adolescente para personajes fantasticos",
+      "created_at": "2026-04-13T11:08:02.307541"
+    },
+    {
+      "name": "🌙 ASMR Susurrante",
+      "type": "design",
+      "instruct": "female, young adult, whisper",
+      "atributos": {
+        "genero": "female",
+        "edad": "young adult",
+        "tono": null,
+        "estilo": "whisper",
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz susurrante femenina para ASMR y meditacion",
+      "created_at": "2026-04-13T11:08:02.307542"
+    },
+    {
+      "name": "🧘 Narrador Meditacion",
+      "type": "design",
+      "instruct": "male, middle-aged, low pitch, whisper",
+      "atributos": {
+        "genero": "male",
+        "edad": "middle-aged",
+        "tono": "low pitch",
+        "estilo": "whisper",
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz masculina suave y grave para guias de meditacion",
+      "created_at": "2026-04-13T11:08:02.307546"
+    },
+    {
+      "name": "🇬🇧 Narrador Britanico",
+      "type": "design",
+      "instruct": "male, young adult, british accent",
+      "atributos": {
+        "genero": "male",
+        "edad": "young adult",
+        "tono": null,
+        "estilo": null,
+        "acento": "british accent",
+        "dialecto": null
+      },
+      "descripcion": "Voz masculina con acento britanico elegante",
+      "created_at": "2026-04-13T11:08:02.307547"
+    },
+    {
+      "name": "🇺🇸 Narradora Americana",
+      "type": "design",
+      "instruct": "female, young adult, american accent",
+      "atributos": {
+        "genero": "female",
+        "edad": "young adult",
+        "tono": null,
+        "estilo": null,
+        "acento": "american accent",
+        "dialecto": null
+      },
+      "descripcion": "Voz femenina con acento americano estandar",
+      "created_at": "2026-04-13T11:08:02.307548"
+    },
+    {
+      "name": "🇦🇺 Narrador Australiano",
+      "type": "design",
+      "instruct": "male, middle-aged, australian accent",
+      "atributos": {
+        "genero": "male",
+        "edad": "middle-aged",
+        "tono": null,
+        "estilo": null,
+        "acento": "australian accent",
+        "dialecto": null
+      },
+      "descripcion": "Voz masculina con acento australiano",
+      "created_at": "2026-04-13T11:08:02.307549"
+    },
+    {
+      "name": "🇮🇳 Narradora India",
+      "type": "design",
+      "instruct": "female, young adult, indian accent",
+      "atributos": {
+        "genero": "female",
+        "edad": "young adult",
+        "tono": null,
+        "estilo": null,
+        "acento": "indian accent",
+        "dialecto": null
+      },
+      "descripcion": "Voz femenina con acento indio",
+      "created_at": "2026-04-13T11:08:02.307550"
+    },
+    {
+      "name": "💼 Presentador Corporativo",
+      "type": "design",
+      "instruct": "male, young adult, moderate pitch",
+      "atributos": {
+        "genero": "male",
+        "edad": "young adult",
+        "tono": "moderate pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz profesional para presentaciones y e-learning",
+      "created_at": "2026-04-13T11:08:02.307551"
+    },
+    {
+      "name": "📻 Locutora de Noticias",
+      "type": "design",
+      "instruct": "female, middle-aged, moderate pitch",
+      "atributos": {
+        "genero": "female",
+        "edad": "middle-aged",
+        "tono": "moderate pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz clara y profesional para noticias y anuncios",
+      "created_at": "2026-04-13T11:08:02.307552"
+    },
+    {
+      "name": "🎬 Narrador de Trailers",
+      "type": "design",
+      "instruct": "male, middle-aged, very low pitch",
+      "atributos": {
+        "genero": "male",
+        "edad": "middle-aged",
+        "tono": "very low pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz grave tipo trailer de pelicula",
+      "created_at": "2026-04-13T11:08:02.307553"
+    },
+    {
+      "name": "🎓 Profesor Universitario",
+      "type": "design",
+      "instruct": "male, elderly, moderate pitch",
+      "atributos": {
+        "genero": "male",
+        "edad": "elderly",
+        "tono": "moderate pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz de profesor para contenido educativo",
+      "created_at": "2026-04-13T11:08:02.307554"
+    },
+    {
+      "name": "🎪 Animadora de Eventos",
+      "type": "design",
+      "instruct": "female, teenager, very high pitch",
+      "atributos": {
+        "genero": "female",
+        "edad": "teenager",
+        "tono": "very high pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz energetica y animada para contenido divertido",
+      "created_at": "2026-04-13T11:08:02.307554"
+    },
+    {
+      "name": "🤖 Voz Robotica",
+      "type": "design",
+      "instruct": "male, teenager, very low pitch",
+      "atributos": {
+        "genero": "male",
+        "edad": "teenager",
+        "tono": "very low pitch",
+        "estilo": null,
+        "acento": null,
+        "dialecto": null
+      },
+      "descripcion": "Voz grave adolescente, efecto robotico/IA",
+      "created_at": "2026-04-13T11:08:02.307556"
+    },
+    {
+      "name": "🇰🇷 Narradora Coreana",
+      "type": "design",
+      "instruct": "female, young adult, korean accent",
+      "atributos": {
+        "genero": "female",
+        "edad": "young adult",
+        "tono": null,
+        "estilo": null,
+        "acento": "korean accent",
+        "dialecto": null
+      },
+      "descripcion": "Voz femenina con acento coreano",
+      "created_at": "2026-04-13T11:08:02.307556"
+    },
+    {
+      "name": "🇯🇵 Narrador Japones",
+      "type": "design",
+      "instruct": "male, young adult, japanese accent",
+      "atributos": {
+        "genero": "male",
+        "edad": "young adult",
+        "tono": null,
+        "estilo": null,
+        "acento": "japanese accent",
+        "dialecto": null
+      },
+      "descripcion": "Voz masculina con acento japones",
+      "created_at": "2026-04-13T11:08:02.307557"
+    },
+    {
+      "name": "Narradora-americana",
+      "type": "design",
+      "instruct": "female, elderly, low pitch, american accent",
+      "atributos": {
+        "genero": "female",
+        "edad": "elderly",
+        "tono": "low pitch",
+        "estilo": null,
+        "acento": "american accent",
+        "dialecto": null
+      },
+      "created_at": "2026-04-13T11:49:33.829416"
+    },
+    {
+      "name": "Voz_Edwin",
+      "type": "clone",
+      "audio_path": "reference\\ref_20260413_115510.wav",
+      "ref_text": "Esa noche, una gran tormenta cubrió el bosque. Los animales no podían ver nada y estaban asustados. Luma, aunque dudaba, voló lo más alto que pudo y comenzó a brillar… más fuerte que nunca.",
+      "created_at": "2026-04-13T11:55:10.355746"
+    }
+  ]
+}

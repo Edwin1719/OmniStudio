@@ -1,0 +1,11 @@
+{
+    "num_step": 8,
+    "device": "cuda",
+    "speed": 1.0,
+    "language_id": "es",
+    "batch_size": 1,
+    "max_fragment_length": 300,
+    "sample_rate": 24000,
+    "output_format": "wav",
+    "verbose": true
+}
