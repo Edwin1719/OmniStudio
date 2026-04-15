@@ -6,7 +6,7 @@
 
 **OmniBook Studio** es una plataforma avanzada de síntesis de voz (TTS) diseñada para creadores de contenido, escritores y productores de audio. Utilizando el motor de **OmniVoice**, permite transformar texto en producciones sonoras profesionales con clonación instantánea, diseño de voces por atributos y una potente suite de generación de diálogos.
 
-![texto del vínculo](https://storage.googleapis.com/strapi-blog/assets/uploads/small_tmpxheopy_d_ec654dfa05/small_tmpxheopy_d_ec654dfa05.jpg)
+![texto del vínculo](https://media.licdn.com/dms/image/v2/D5612AQFt8e_KsL4dyA/article-cover_image-shrink_720_1280/B56ZVijlBaGoAQ-/0/1741115249679?e=2147483647&v=beta&t=KKMDxKqF9c9j_VDqK-bx5piFRfeiGuiVcNPnMLfS2KY)
 ---
 
 ## 🏗️ Arquitectura del Sistema
